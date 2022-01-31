@@ -40,7 +40,7 @@ header nav a:hover{
 
 .filme-principal{
     font: size 16px;
-    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(/img/background_img_1.jpg);
+    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(img/background_img_1.jpg);
     
     background-size: cover;
     height: 400px; 
